@@ -44,6 +44,13 @@ main {
     max-width: 20%;
     border-radius: 10px;
 }
+.centered-image1 {
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
+    width: auto;
+    border-radius: 10px;
+}
 .centered-content {
     display: flex;
     flex-direction: column;
